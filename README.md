@@ -1,5 +1,6 @@
-# Sage Elliott
-Hello! I’m Sage. I like helping people learn and creating things with technology.
+# 👋 Hello! 
+
+I’m Sage. I like helping people learn and creating things with technology.
 If you’re making something interesting or looking for help breaking into the tech field feel free to get in touch!
 Currently I’m doing cool with computer vision at Sixgill!
 
