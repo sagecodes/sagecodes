@@ -15,4 +15,4 @@ Currently I’m doing cool with Computer Vision & Machine Learning at [Sixgill](
 # Upcoming Talks:
 
 - [7/22 Intro to Computer Vision Part 1: Classification](https://www.eventbrite.com/e/intro-to-computer-vision-part-1-classification-webinar-tickets-110889557652)
-- [7/29 Intro to Computer Vision Part 1: Object Detection](https://www.eventbrite.com/e/intro-to-computer-vision-part-2-object-detection-webinar-tickets-110891698054)
+- [7/29 Intro to Computer Vision Part 2: Object Detection](https://www.eventbrite.com/e/intro-to-computer-vision-part-2-object-detection-webinar-tickets-110891698054)
