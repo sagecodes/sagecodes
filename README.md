@@ -1,20 +1,18 @@
 # 👋 Hello! 
 
-I’m Sage. I like helping people learn and creating things with technology.
-If you’re making something interesting or looking for help breaking into the tech field feel free to get in touch!
-Currently I’m doing cool with computer vision at Sixgill!
+I’m Sage. I like helping people learn and create things with technology.
+Currently I’m doing cool with Computer Vision & Machine Learning at [Sixgill](https://www.sixgill.com/)!
 
-<!--
-**sagecodes/sagecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Blog](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/)
 
-Here are some ideas to get you started:
+# Recent Post:
+[Seattle Tech Events (updated weekly)](https://sageelliott.com/seattle-tech-events)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Featured Projects:
+
+
+
+# Upcoming Talks:
+
+- [7/22 Intro to Computer Vision Part 1: Classification](https://www.eventbrite.com/e/intro-to-computer-vision-part-1-classification-webinar-tickets-110889557652)
+- [7/29 Intro to Computer Vision Part 1: Object Detection](https://www.eventbrite.com/e/intro-to-computer-vision-part-2-object-detection-webinar-tickets-110891698054)
