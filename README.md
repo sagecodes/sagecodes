@@ -1,7 +1,7 @@
 # 👋 Hello! 
 
 I’m Sage. I like helping people learn and create things with technology.
-Currently I’m doing cool with Computer Vision & Machine Learning at [Sixgill](https://www.sixgill.com/)!
+Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixgill.com/)!
 
 [Blog](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/)
 
