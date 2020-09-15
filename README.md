@@ -1,9 +1,8 @@
-# 👋 Hello! 
+# [Blog](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/)
 
-I’m Sage. I like helping people learn and create things with technology.
+Hello, I’m Sage. I like helping people learn and create things with technology.
 Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixgill.com/)!
 
-[Blog](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/)
 
 # Recent Post:
 [Seattle Tech Events (updated weekly)](https://sageelliott.com/seattle-tech-events)
