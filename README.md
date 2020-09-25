@@ -11,7 +11,6 @@ Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixg
 
 ## Upcoming Talks:
 
-- [9/22 Intro to Computer Vision](https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-120050733977)
 - [9/30 | Intro to Machine Learning](https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-120050733977https://www.eventbrite.com/e/introduction-to-machine-learning-tickets-120058001715)
 - [10/8 | A Hands on Workshop for Computer Vision](https://learn.xnextcon.com/event/eventdetails/W200100810)
 - [10/16 | "People are Awesome: Why You Shouldn't Fear Public Speaking"](https://lu.ma/sage-elliott-1016)
