@@ -6,7 +6,7 @@ Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixg
 
 
 ## Recent Posts:
-- [Artificial Intelligence: Week #38 | 2020](https://medium.com/sixgill/artificial-intelligence-week-38-2020-de2ad265ef12)
+- [Artificial Intelligence: Week #39 | 2020](https://sixgill.com/2020/09/25/artificial-intelligence-week-39-2020/)
 - [How I broke and fixed(mostly) a Vive controller](https://medium.com/@sagecodes/how-i-broke-and-fixed-mostly-a-vive-controller-46ec172019da)
 
 ## Upcoming Talks:
