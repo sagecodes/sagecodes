@@ -1,4 +1,4 @@
-## [Blog](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/)
+## [Medium](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/) | [Website](https://sageelliott.com/)
 
 Hello, I’m Sage. I like helping people learn and create things with technology.
 
