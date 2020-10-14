@@ -12,4 +12,4 @@ Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixg
 ## Upcoming Talks:
 
 - [10/16 | "People are Awesome: Why You Shouldn't Fear Public Speaking"](https://lu.ma/sage-elliott-1016)
-
+- [Introduction to Computer Vision - build an object detector with your own dataset](https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-123023758373)
