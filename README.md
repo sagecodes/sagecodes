@@ -2,14 +2,13 @@
 
 Hello, I’m Sage. I like helping people learn and create things with technology.
 
-Currently doing Computer Vision & Machine Learning at [Sixgill](https://www.sixgill.com/)!
+Currently doing Computer Vision & Machine Learning at [Plainsight(https://www.plainsight.ai/)!
 
 
 ## Recent Posts:
-- [Artificial Intelligence: Week #42 | 2020](https://sixgill.com/2020/10/16/artificial-intelligence-week-42-2020/)
-- [How I broke and fixed(mostly) a Vive controller](https://medium.com/@sagecodes/how-i-broke-and-fixed-mostly-a-vive-controller-46ec172019da)
+- [Artificial Intelligence: Week #32 | 2021](https://medium.com/plainsight/artificial-intelligence-week-32-2021-55aac401059a)
+- [Artificial Intelligence: Week #31 | 2021](https://medium.com/plainsight/artificial-intelligence-week-31-2021-9559ab8166f0)
 
 ## Upcoming Talks:
 
-- [10/16 | "People are Awesome: Why You Shouldn't Fear Public Speaking"](https://lu.ma/sage-elliott-1016)
-- [10/20 | Introduction to Computer Vision - build an object detector with your own dataset](https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-123023758373)
+- [8/25/2021 | Introduction to Computer Vision - build an object detector with your own dataset](https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-165952106217?aff=SageSocial)
