@@ -2,7 +2,7 @@
 
 Hello, I’m Sage. I like helping people learn and create things with technology.
 
-Currently doing Computer Vision & Machine Learning at [Plainsight(https://www.plainsight.ai/)!
+Currently doing Computer Vision & Machine Learning at [Plainsight](https://www.plainsight.ai/)!
 
 
 ## Recent Posts:
