@@ -5,8 +5,9 @@ Hello, I’m Sage. I like helping people learn and create things with technology
 Currently making A.I. approachable at [Plainsight](https://www.plainsight.ai/)!
 
 ## Recent Posts:
+- [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
 - [Use Vision AI for Accurate Livestock Monitoring at Scale](https://medium.com/plainsight/use-vision-ai-for-accurate-livestock-monitoring-at-scale-7e244cb6662d)
-- [Artificial Intelligence Roundup: Week #38 | 2021](https://medium.com/plainsight/artificial-intelligence-week-38-2021-12454b6bfd24)
+- [Artificial Intelligence Roundup: Week #43 | 2021](https://medium.com/plainsight/artificial-intelligence-roundup-week-43-2021-2ca7926ecefa)
 
 ## Upcoming Talks:
 
