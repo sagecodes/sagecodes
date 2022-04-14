@@ -2,7 +2,7 @@
 
 Hello, I’m Sage. I like helping people learn and create things with technology.
 
-Currently making A.I. approachable at [Plainsight](https://www.plainsight.ai/)!
+Currently making A.I. observable with whylogs [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)!
 
 ## Recent Posts:
 - [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
