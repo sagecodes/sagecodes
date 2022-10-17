@@ -6,7 +6,8 @@ Currently making A.I. observable with whylogs [https://github.com/whylabs/whylog
 
 ![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast) 
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445)
 
 ## Recent Posts:
 - [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
