@@ -4,6 +4,8 @@ Hello, I’m Sage. I like helping people learn and create things with technology
 
 Currently making A.I. observable with whylogs [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)!
 
+![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
+
 ## Recent Posts:
 - [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
 - [Use Vision AI for Accurate Livestock Monitoring at Scale](https://medium.com/plainsight/use-vision-ai-for-accurate-livestock-monitoring-at-scale-7e244cb6662d)
