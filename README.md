@@ -6,6 +6,8 @@ Currently making A.I. observable with whylogs [https://github.com/whylabs/whylog
 
 ![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast) 
+
 ## Recent Posts:
 - [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
 - [Use Vision AI for Accurate Livestock Monitoring at Scale](https://medium.com/plainsight/use-vision-ai-for-accurate-livestock-monitoring-at-scale-7e244cb6662d)
