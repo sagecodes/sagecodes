@@ -1,8 +1,15 @@
 ## [Medium](https://medium.com/@sagecodes) | [Twitter](https://twitter.com/sagecodes) | [Linkedin](https://www.linkedin.com/in/sageelliott/) | [Website](https://sageelliott.com/)
 
-Hello, I’m Sage. I like helping people learn and create things with technology.
 
-Currently making A.I. observable with whylogs [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)!
+### — Hello, I’m Sage.
+
+# Machine Learning Engineer
+
+👋 I like helping people learn and creating things with technology.
+
+🛠️ I’m currently doing cool stuff with machine learning & MLOps at [WhyLabs](https://whylabs.ai/)!
+
+Check out our open source data logging project, whylogs at [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)!
 
 ![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
 
