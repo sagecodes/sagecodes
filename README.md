@@ -9,9 +9,6 @@
 |👋 I like helping people learn and creating things with technology.<br>🛠️ I’m currently doing cool stuff with machine learning & MLOps at [WhyLabs](https://whylabs.ai/)! <br>Check out our open source data logging project, whylogs at [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)! |_______________________________________![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)
 | ----------|-------------- |
 
-![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
-
-
 ## Featured Posts
 
 ||| 
