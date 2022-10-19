@@ -13,14 +13,19 @@ Check out our open source data logging project, whylogs at [https://github.com/w
 
 ![](https://activity-graph.herokuapp.com/graph?username=sagecodes&theme=high-contrast)
 
-|||
+|![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445)
 | ----------|-------------- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445) |
 
-## Recent Posts:
-- [Detecting Unwanted & Hazardous Objects with Vision AI](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
-- [Use Vision AI for Accurate Livestock Monitoring at Scale](https://medium.com/plainsight/use-vision-ai-for-accurate-livestock-monitoring-at-scale-7e244cb6662d)
-- [Artificial Intelligence Roundup: Week #51 | 2021](https://medium.com/plainsight/artificial-intelligence-roundup-week-51-2021-8a5f4c3aa5cb)
+## Featured Posts
+
+||| 
+| ----------|-------------- |
+|How_to_Validate_Data_Quality_for_ML_Monitoring[![How to Validate Data Quality for ML Monitoring](https://miro.medium.com/max/1400/1*-LNvKMkSTJ3q22BH8DNsTg.gif)](https://medium.com/whylabs/how-to-validate-data-quality-for-ml-monitoring-588ec1200daa) | Data_Annotation_for_Computer_Vision___________[![Data Annotation for Computer Vision](https://miro.medium.com/max/1400/1*pOTeu-L-GihV6J1U4siYew.gif)](https://medium.com/plainsight/data-annotation-for-computer-vision-a8007c0d9059)|
+|Overcoming Bias &Variance in Machine Learning[![Foo](https://miro.medium.com/max/1400/1*FoZkKh-4uhvUgyzaIVEr3w.gif)](https://towardsdatascience.com/overcoming-bias-variance-in-machine-learning-31169dc649ed) |DetectingUnwanted & Hazardous Objects with Vision AI[![Foo](https://miro.medium.com/max/1300/1*jdbasLIwDCwbZXx-yUMDBQ.gif)](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)|
+
+[Read More on Medium](https://sagecodes.medium.com/)
+
+
 
 ## Upcoming Talks:
 
