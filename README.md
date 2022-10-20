@@ -5,8 +5,13 @@
 
 # Machine Learning Engineer
 
+👋 I like helping people learn and creating things with technology.
 
-|👋 I like helping people learn and creating things with technology.<br>🛠️ I’m currently doing cool stuff with machine learning & MLOps at [WhyLabs](https://whylabs.ai/)! <br>Check out our open source data logging project, whylogs at [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)! |_______________________________________![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)
+🛠️ I’m currently doing cool stuff with machine learning & MLOps at [WhyLabs](https://whylabs.ai/)!
+
+Check out our open source data logging project, whylogs at [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)! 
+
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445)| ![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)
 | ----------|-------------- |
 
 ## Featured Posts
