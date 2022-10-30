@@ -21,6 +21,8 @@ Check out our open source data logging project, whylogs at [https://github.com/w
 |How to Validate Data Quality for ML Monitoring [![How to Validate Data Quality for ML Monitoring](https://miro.medium.com/max/1400/1*-LNvKMkSTJ3q22BH8DNsTg.gif)](https://medium.com/whylabs/how-to-validate-data-quality-for-ml-monitoring-588ec1200daa) | Data Annotation for Computer_Vision [![Data Annotation for Computer Vision](https://miro.medium.com/max/1400/1*pOTeu-L-GihV6J1U4siYew.gif)](https://medium.com/plainsight/data-annotation-for-computer-vision-a8007c0d9059)|
 |Overcoming Bias &Variance in Machine Learning[![](https://miro.medium.com/max/1400/1*FoZkKh-4uhvUgyzaIVEr3w.gif)](https://towardsdatascience.com/overcoming-bias-variance-in-machine-learning-31169dc649ed) |Detecting Unwanted & Hazardous Objects with Vision AI[![](https://miro.medium.com/max/1300/1*5gayYcCnQzTPjGVU9JiEMA.gif)](https://medium.com/plainsight/detecting-unwanted-hazardous-objects-with-vision-ai-669c379bc815)
 
+| ---------------------|---------------------- |
+|===========================|===========================| 
 
 
 [Read More on Medium](https://sagecodes.medium.com/)
