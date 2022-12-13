@@ -27,5 +27,4 @@ Check out our open source data logging project, whylogs at [https://github.com/w
 
 ## Upcoming Talks:
 
-- [1/12/2022 5:30 pm | Introduction to Computer Vision - build an object detector with your own dataset](https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-225984946057?aff=SageSocial)
-- [1/26/2022 5:30pm | Faster Data Annotation for Computer Vision with AI-Powered Labeling](https://www.eventbrite.com/e/faster-data-annotation-for-computer-vision-with-ai-powered-labeling-tickets-227803505417?aff=SageSocial)
+[12/14 Intro to ML Monitoring: Classification Models using scikit-learn + WhyLabs - workshop](https://www.eventbrite.com/e/intro-to-ml-monitoring-classification-models-using-scikit-learn-whylabs-tickets-478585230307)
