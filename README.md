@@ -27,4 +27,6 @@ Check out our open source data logging project, whylogs at [https://github.com/w
 
 ## Upcoming Talks:
 
-[12/14 Intro to ML Monitoring: Classification Models using scikit-learn + WhyLabs - workshop](https://www.eventbrite.com/e/intro-to-ml-monitoring-classification-models-using-scikit-learn-whylabs-tickets-478585230307)
+- [12/14 Intro to ML Monitoring: Classification Models using scikit-learn + WhyLabs - workshop](https://www.eventbrite.com/e/intro-to-ml-monitoring-classification-models-using-scikit-learn-whylabs-tickets-478585230307)
+
+- [1/18 How to Avoid an “MLOops” with ML Monitoring - Conference talk](https://ai-educators.org/2022/10/26/applications-of-ai-and-ai-infrastructure/)
