@@ -7,9 +7,9 @@
 
 👋 I like helping people learn and creating things with technology.
 
-🛠️ I’m currently doing cool stuff with machine learning & MLOps at [WhyLabs](https://whylabs.ai/)!
+🛠️ I’m currently doing cool stuff with machine learning & MLOps at [Union](https://union.ai/)!
 
-Check out our open source data logging project, whylogs at [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)! 
+Check out our open source data logging project, Flyte at [https://github.com/flyteorg/flyte/](https://github.com/flyteorg/flyte/)! 
 
 |![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445)| ![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)
 | ----------|-------------- |
