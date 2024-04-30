@@ -3,7 +3,7 @@
 
 ### — Hello, I’m Sage.
 
-# Machine Learning Engineer
+# AI Engineer
 
 👋 I like helping people learn and creating things with technology.
 
