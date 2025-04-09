@@ -11,7 +11,7 @@
 
 Check out our open source project, Flyte at [https://github.com/flyteorg/flyte/](https://github.com/flyteorg/flyte/)! 
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagecodes&langs_count=8&theme=highcontrast&layout=compact&card_width=445)| ![](https://github-readme-streak-stats.herokuapp.com/?user=sagecodes&theme=highcontrast&layout=compact&card_width=445)
+
 | ----------|-------------- |
 
 # Featured Blog Posts
