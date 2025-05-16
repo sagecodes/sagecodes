@@ -12,8 +12,6 @@
 Check out our open source project, Flyte at [https://github.com/flyteorg/flyte/](https://github.com/flyteorg/flyte/)! 
 
 
-| ----------|-------------- |
-
 # Featured Blog Posts
 
 ||| 
